@@ -1,3 +1,4 @@
 sample
 
 line 2 for conflict local
+line 2 for conflict remote
